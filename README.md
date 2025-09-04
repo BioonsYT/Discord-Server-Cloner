@@ -84,7 +84,7 @@ Versão atual: `v1.0`
 Licença: **Gratuito para uso >pessoal<**
 
 ## ❤️ Agradecimentos
-Criado com 💻, ☕ e muita paciencia para fazer uma backup e clonagem completa do seu servidor.  
+Criado com 💻, ☕ e muita paciencia para fazer uma backup e clonagem completa do seu servidor!  
 Se você curtiu o projeto, deixe uma ⭐ no repositório e compartilhe com seus amigos.
 
 ## 📄 Licença
