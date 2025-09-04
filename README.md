@@ -1,4 +1,6 @@
-# Shadon Clone Bot - Clonador de Servidores Discord
+![Versão](https://img.shields.io/badge/vers%C3%A3o-v1.0-green)
+
+# 💽 Shadon Clone Bot - Clonador de Servidores Discord
 
 <div align="center">
 
