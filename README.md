@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  Uma ferramenta poderosa e completa para backup e clonagem de servidores do Discord, desenvolvida em Python com a biblioteca `discord.py`.
+  Uma ferramenta poderosa e completa para backup e clonagem de servidores do Discord, desenvolvida em Python com a biblioteca discord.py.
 </p>
 
 <div align="center">
