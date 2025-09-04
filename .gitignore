@@ -1,0 +1,9 @@
+# Arquivo de variáveis de ambiente (Token)
+.env
+
+# Ambiente Virtual do Python
+.venv/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
