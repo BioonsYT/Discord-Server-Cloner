@@ -37,7 +37,7 @@ Antes de começar, garanta que você tenha o Python 3.8 ou superior instalado.
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/BioonsYT/Discord-Server-Cloner.git](https://github.com/BioonsYT/Discord-Server-Cloner.git)
+    git clone https://github.com/BioonsYT/Discord-Server-Cloner.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```sh
